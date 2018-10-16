@@ -1,6 +1,6 @@
 {
   "name": "opal_common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opal Common Components and Utilities",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -19,7 +19,10 @@
     "type": "git",
     "url": "git+https://github.com/gongiskhan/opal_common.git"
   },
-  "keywords": ["Opal", "Common"],
+  "keywords": [
+    "Opal",
+    "Common"
+  ],
   "author": "goncalo.gomes@voxfp.com",
   "license": "ISC",
   "bugs": {
